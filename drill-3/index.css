@@ -1,0 +1,55 @@
+header {
+  width: 100vw;
+  height: 10vh;
+  background-color: grey;
+  position: relative;
+}
+.logo {
+  width: 50px;
+  height: 50px;
+  background-color: blue;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+main {
+  background-color: #fff;
+  width: 100vw;
+  height: 30vh;
+}
+.content {
+  margin: 30px;
+}
+section {
+  width: 100vw;
+  height: 15vh;
+}
+
+.blue {
+  background-color: cadetblue;
+}
+.aqua {
+  background-color: aquamarine;
+}
+.citrine {
+  background-color: yellowgreen;
+}
+.yellow {
+  background-color: yellow;
+}
+.black {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: black;
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+i.icon{
+    color:#fff;
+    font-size: large;
+}
